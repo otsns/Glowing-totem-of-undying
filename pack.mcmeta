@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 65,
+    "pack_format": 69,
     "description": "§6Glowing totem of undying\n§fLight level - 15 §cby otsns ",
     "supported_formats": {
       "min_inclusive": 69,
